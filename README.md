@@ -5,6 +5,13 @@ The project is aiming at analysing data of 3 differents rankings of world univer
 Data from : https://www.kaggle.com/datasets/mylesoneill/world-university-rankings  
 
 ## 1. Download and open CSV files
+The database contains 6 files:
+- timesData.csv
+- shanghaiData.csv
+- cwurData.csv
+- education_expenditure_supplementary_data.csv
+- educational_attainment_supplementary_data.csv
+- school_and_country_table.csv
 
 ## 2. Manager Questions
 a) Give an overview of each csv file and describe its contents in one sentence.  
@@ -17,10 +24,7 @@ g) Which French universities are present in the CWUR ranking?
 h) Which countries have the lowest ratios (Expenditure on Higher Education Institutions (Private and Public) in 2011) / Number of universities in the Times ranking in 2011? Arrange this list in ascending order.
 
 ## 3. Find interesting information
-
-Give 5 more interesting conclusions from your analysis:
-a) Gender equality
-b) Foreign students
-c)
-d)
-e)
+Give some extra interesting conclusions from your analysis:   
+a) Top university each year according to each ranking  
+b) Gender equality: Universities having more than 45% of women (Times ranking)  
+c) International students: Universities having the most international students (Times ranking)  
